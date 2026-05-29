@@ -1,1 +1,3 @@
 # plataforma-academica
+# Pavel Santiago Guzmán Gutiérrez (92828)
+# Pequeña descripción para README...
